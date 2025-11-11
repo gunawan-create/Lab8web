@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhP Dasar</title>
+</head>
+<body>
+    <h1>Belajar PHP Dasar</h1>
+    <?php
+        echo "Hello World";
+    ?>
+    
+    <h1>Menggunakan Variable</h1>
+    <?php
+    $nim = "0411500400";
+    $nama = "Gunawan";
+    echo "NIM : " . $nim . "<br>";
+    echo "Nama : $nama";
+
+    <h1>Predefine Variable</h1>
+    <?php
+    if (isset($_GET['nama'])) {
+        echo 'Selamat Datang ' . $_GET['nama'];
+    } else {
+        echo 'Selamat Datang, silakan tambahkan ?nama=diURL';
+    }
+    ?>
+</body>
+</html>

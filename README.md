@@ -1,7 +1,7 @@
 ## LAPORAN PRAKTIKUM 8
-# Nama : Ali Gunawan 
-# Kelas : TI.24.A3
-# NIM: 312410400
+#### Nama : Ali Gunawan 
+#### Kelas : TI.24.A3
+#### NIM: 312410400
 ### LATAR BELAKANG PHP
 PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa
 pemrograman yang di desain khusus untuk web development atau pengembangan web.
